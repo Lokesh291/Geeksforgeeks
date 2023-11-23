@@ -34,6 +34,7 @@ public class Main
 //Accepts array : Int,float,char,double,long
 //Import java.util.Arrays;
   Arrays.sort(arrayname);
+  Arrays.sort(a);
 	    for(int i =0;i<n;i++)
 	    {
 	        System.out.print(a[i] + " ");
